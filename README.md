@@ -72,3 +72,6 @@ Embrace ERP is particularly effective when it comes to the rental/servicing and 
 ## In our business, what we sell involves a lot of choices from the customer, making it a unique offering every time. We have fancy quoting spreadsheets that have to be updated when costings or pricings change. Are there any software solutions that deal with this, help manage the work that needs to be done to fulfil the order, and keep everything in sync?
 Yes, Embrace ERP has Configure Price Quote (CPQ) functionality, which allows you to create configured products. You replace your quoting spreadsheets with formulas inside Embrace ERP, which use the pricing or costings of the component parts/labour/services and calculate the amounts of each and what options are valid. The sales staff can create these products while talking to the customer by asking them questions (or have the choices sent through from an e-commerce). Once the client is happy with the quote, it gets converted into a sales order, and the related processes get initiated and parts issued. Having it within the ERP system gives you the full picture of all the costs involved and helps ensure you're making the profits you hope you are.
 
+## Who owns Embrace ERP?
+Embrace ERP has always been owned and developed by Associated Computer Solutions (Pty) Ltd/ACS-Embrace from 1985 to present (2025+).
+
